@@ -146,7 +146,7 @@ You may also be receiving this error due to being logged in using the device cod
    ```
 
    > [!NOTE]
-   > If running CodeSpaces in the browser, you may receive an error with message `localhost refused to connect` after logging in. If so:
+   > If running Codespaces in the browser, you may receive an error with message `localhost refused to connect` after logging in. If so:
    > 
    > 1. Copy the URL.
    > 1. Run `curl '<pasted url>'` (URL in quotes) in a new Visual Studio Code terminal.
